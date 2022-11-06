@@ -76,4 +76,6 @@ for favicon in favicons:
 
 
 
-After some careful scrolling and looking up the correct favicon data in the SLP responses, I found the IP address to be <details>65.109.68.176</details>
+After some careful scrolling and looking up the correct favicon data in the SLP responses, I found the IP address to be:
+
+<details><summary>Spoiler</summary>65.109.68.176</details>
